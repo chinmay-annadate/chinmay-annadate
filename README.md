@@ -1,5 +1,6 @@
 - Hi, I’m Chinmay Annadate.
 - CSE Undergrad
+- Home Page: https://github.com/chinmay-annadate
 - How to reach me chinmay.annadate0112@gmail.com
 - Linkedin: https://www.linkedin.com/in/chinmay-annadate-790a0a211/
 <!---
