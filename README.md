@@ -1,6 +1,6 @@
 ### Hi, I’m Chinmay Annadate.
 - CSE Undergrad
-- Reacg=h me at chinmay.annadate0112@gmail.com
+- Reach me at chinmay.annadate0112@gmail.com
 - <a href="https://www.linkedin.com/in/chinmay-annadate-790a0a211/">LinkedIn<a/>
 
 ### Projects
