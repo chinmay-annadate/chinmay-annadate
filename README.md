@@ -4,6 +4,10 @@
 - <a href="https://www.linkedin.com/in/chinmay-annadate-790a0a211/">LinkedIn<a/>
 
 ### Projects
+#### Learning Java and MySQL
+- <a href="https://github.com/chinmay-annadate/train-tickets-high-school-project">High School Project<a/>
+- <a href="https://github.com/chinmay-annadate/practical-file-high-school">High School Practical File<a/>
+
 #### Learning Python
 - <a href="https://github.com/chinmay-annadate/JARVIS">JARVIS Virtual Assistant<a/>
   
