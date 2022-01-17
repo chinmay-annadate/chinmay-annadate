@@ -8,10 +8,10 @@
 - <a href="https://github.com/chinmay-annadate/tesla-clone">Tesla Webpage Clone<a/>
 - <a href="https://github.com/chinmay-annadate/disneyplus-clone">Disney-Plus Webpage Clone<a/>
   
-  #### Learning Python
+#### Learning Python
 - <a href="https://github.com/chinmay-annadate/JARVIS">JARVIS Virtual Assistant<a/>
 
-  #### Learning Java and MySQL
+#### Learning Java and MySQL
 - <a href="https://github.com/chinmay-annadate/train-tickets-high-school-project">High School Project<a/>
 - <a href="https://github.com/chinmay-annadate/practical-file-high-school">High School Practical File<a/>
 <!---
