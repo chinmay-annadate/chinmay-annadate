@@ -2,7 +2,7 @@
 - CSE Undergrad
 - Reach me at chinmay.annadate0112@gmail.com
 - <a target="_blank" href="https://www.linkedin.com/in/chinmay-annadate-790a0a211/">LinkedIn<a/>
-- <a target="_blank" href="https://twitter.com/ChinmayAnnadate">Web-resume</a>
+- <a target="_blank" href="https://chinmay-web-resume.web.app/">Web-resume</a>
 
 ### Projects
 #### Learning React JS 
