@@ -10,8 +10,9 @@
 - <a href="https://github.com/chinmay-annadate/ml-with-python-101">IBM Cognitive Class Practice Programs<a/>  
   
 #### Learning React JS 
-- <a href="https://github.com/chinmay-annadate/tesla-clone">Tesla Webpage Clone<a/>
+- <a href="https://github.com/chinmay-annadate/web-resume">Web Resume<a/>
 - <a href="https://github.com/chinmay-annadate/disneyplus-clone">Disney-Plus Webpage Clone<a/>
+- <a href="https://github.com/chinmay-annadate/tesla-clone">Tesla Webpage Clone<a/>
   
 #### Learning Python
 - <a href="https://github.com/chinmay-annadate/JARVIS">JARVIS Virtual Assistant<a/>
