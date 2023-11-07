@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ccannadate@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SAv_Oy52Q-FyFn84xu74TZzB8bQWIDee/view](https://drive.google.com/file/d/1SAv_Oy52Q-FyFn84xu74TZzB8bQWIDee/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G7xAXs679CtV71AX0ero50EfFPma4z3I/view](https://drive.google.com/file/d/1G7xAXs679CtV71AX0ero50EfFPma4z3I/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
